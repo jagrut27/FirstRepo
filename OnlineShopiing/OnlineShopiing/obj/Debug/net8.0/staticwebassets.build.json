@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "ONAugNFf2UcpGM7f0kIYNDHu5AQPFLOoA9swEBpK3B4=",
+  "Source": "OnlineShopiing",
+  "BasePath": "_content/OnlineShopiing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineShopiing\\wwwroot",
+      "Source": "OnlineShopiing",
+      "ContentRoot": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\wwwroot\\",
+      "BasePath": "_content/OnlineShopiing",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

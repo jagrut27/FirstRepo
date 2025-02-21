@@ -1,0 +1,73 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Header Section */
+.header {
+    display: flex;
+    justify-content: space-between; /* Distribute space between left and right */
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.website-name h1 {
+    font-size: 36px;
+    margin-left: 20px;
+}
+
+.categories ul {
+    list-style: none;
+    display: flex;
+    margin-right: 20px;
+}
+
+.categories ul li {
+    margin: 0 15px;
+}
+
+.categories ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.categories ul li a:hover {
+    text-decoration: underline;
+}
+#text{
+    text-align: center ;
+    
+    font-style:italic ;
+    background-color: rgb(81, 186, 221);
+    
+}
+
+/* Banner Section */
+.banner-section {
+    padding: 20px;
+    text-align: center;
+    width: 100%; /* Full-width */
+    overflow: hidden; /* Hide the overflowed images */
+}
+
+.banner-container {
+    display: flex;
+    transition: transform 1s ease-in-out; /* Smooth sliding transition */
+}
+
+.banner-slide {
+    width: 100%;
+    height: auto;
+    flex-shrink: 0; /* Prevent images from shrinking */
+}

@@ -1,0 +1,89 @@
+/* Men’s Collection Section */
+
+header {
+    display: flex;
+    justify-content: space-between; /* Distribute space between left and right */
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.website-name h1 {
+    font-size: 36px;
+    margin-left: 20px;
+}
+
+.categories ul {
+    list-style: none;
+    display: flex;
+    margin-right: 20px;
+}
+
+.categories ul li {
+    margin: 0 15px;
+}
+
+.categories ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.categories ul li a:hover {
+    text-decoration: underline;
+}
+.mens-collection {
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.mens-collection h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.product-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.product {
+    width: 30%;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.product img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product h3 {
+    margin: 10px 0;
+}
+
+.product p {
+    font-size: 18px;
+    color: #333;
+}
+
+.product button {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.product button:hover {
+    background-color: #555;
+}
