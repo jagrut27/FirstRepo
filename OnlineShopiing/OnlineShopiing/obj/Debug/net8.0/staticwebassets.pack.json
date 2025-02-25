@@ -1,16 +1,24 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\wwwroot\\Jeans.jpg",
-      "PackagePath": "staticwebassets\\Jeans.jpg"
+      "Id": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Jeans.jpg",
+      "PackagePath": "staticwebassets\\images\\Jeans.jpg"
     },
     {
-      "Id": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\wwwroot\\Shoes.jpg",
-      "PackagePath": "staticwebassets\\Shoes.jpg"
+      "Id": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\Shirt.jpg"
     },
     {
-      "Id": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\wwwroot\\T-shirt.jpg",
-      "PackagePath": "staticwebassets\\T-shirt.jpg"
+      "Id": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Shoes.jpg",
+      "PackagePath": "staticwebassets\\images\\Shoes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\T-shirt 1.jpg",
+      "PackagePath": "staticwebassets\\images\\T-shirt 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\T-shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\T-shirt.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineShopiing.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

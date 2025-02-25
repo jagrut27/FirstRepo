@@ -1,3 +1,5 @@
-wwwroot\Jeans.jpg
-wwwroot\Shoes.jpg
-wwwroot\T-shirt.jpg
+wwwroot\images\Jeans.jpg
+wwwroot\images\Shirt.jpg
+wwwroot\images\Shoes.jpg
+wwwroot\images\T-shirt 1.jpg
+wwwroot\images\T-shirt.jpg

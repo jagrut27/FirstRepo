@@ -14,17 +14,26 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Cart"
+                "type": "array",
+                "items": {
+                  "$ref": "#/components/schemas/Cart"
+                }
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Cart"
+                "type": "array",
+                "items": {
+                  "$ref": "#/components/schemas/Cart"
+                }
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Cart"
+                "type": "array",
+                "items": {
+                  "$ref": "#/components/schemas/Cart"
+                }
               }
             }
           }
@@ -237,7 +246,7 @@
             "type": "integer",
             "format": "int32"
           },
-          "imageURL": {
+          "imageUrl": {
             "type": "string",
             "nullable": true
           }
@@ -255,7 +264,7 @@
             "type": "integer",
             "format": "int32"
           },
-          "productId": {
+          "productID": {
             "type": "integer",
             "format": "int32"
           },
@@ -266,6 +275,14 @@
           "totalAmount": {
             "type": "number",
             "format": "double"
+          },
+          "productName": {
+            "type": "string",
+            "nullable": true
+          },
+          "imageUrl": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

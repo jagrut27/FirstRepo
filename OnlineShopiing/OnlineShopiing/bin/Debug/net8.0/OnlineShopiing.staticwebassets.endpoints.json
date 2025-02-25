@@ -1,5 +1,416 @@
 {
   "Version": 1,
   "ManifestType": "Build",
-  "Endpoints": []
+  "Endpoints": [
+    {
+      "Route": "images/Jeans.jpg",
+      "AssetFile": "images/Jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zCC4d6vwaY8kELKa5QzvCeiV7UAxTSrpZWk6ZTQIKrc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:51:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zCC4d6vwaY8kELKa5QzvCeiV7UAxTSrpZWk6ZTQIKrc="
+        }
+      ]
+    },
+    {
+      "Route": "images/Jeans.s8tn1bcz9i.jpg",
+      "AssetFile": "images/Jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zCC4d6vwaY8kELKa5QzvCeiV7UAxTSrpZWk6ZTQIKrc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:51:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8tn1bcz9i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zCC4d6vwaY8kELKa5QzvCeiV7UAxTSrpZWk6ZTQIKrc="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Jeans.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Shirt.jpg",
+      "AssetFile": "images/Shirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LP4K6wC9XJqtBARVvodsKed5idr0EAuiZQhDCLudwRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:24:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LP4K6wC9XJqtBARVvodsKed5idr0EAuiZQhDCLudwRQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Shirt.kcxc6u9l43.jpg",
+      "AssetFile": "images/Shirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LP4K6wC9XJqtBARVvodsKed5idr0EAuiZQhDCLudwRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:24:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcxc6u9l43"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LP4K6wC9XJqtBARVvodsKed5idr0EAuiZQhDCLudwRQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Shirt.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Shoes.jpg",
+      "AssetFile": "images/Shoes.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0LSION8Q9KNqBs1E2QAbJeux5akebgwlpcyQRJwuwA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:50:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0LSION8Q9KNqBs1E2QAbJeux5akebgwlpcyQRJwuwA4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Shoes.o2fyo3r69l.jpg",
+      "AssetFile": "images/Shoes.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0LSION8Q9KNqBs1E2QAbJeux5akebgwlpcyQRJwuwA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:50:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2fyo3r69l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0LSION8Q9KNqBs1E2QAbJeux5akebgwlpcyQRJwuwA4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Shoes.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/T-shirt 1.0gu20g896f.jpg",
+      "AssetFile": "images/T-shirt 1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YPkoyHpGOB++BaZzeXakDvgBamZ31iRMTBOd3e1i3o0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:21:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0gu20g896f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPkoyHpGOB++BaZzeXakDvgBamZ31iRMTBOd3e1i3o0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/T-shirt 1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/T-shirt 1.jpg",
+      "AssetFile": "images/T-shirt 1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YPkoyHpGOB++BaZzeXakDvgBamZ31iRMTBOd3e1i3o0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:21:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPkoyHpGOB++BaZzeXakDvgBamZ31iRMTBOd3e1i3o0="
+        }
+      ]
+    },
+    {
+      "Route": "images/T-shirt.etsmmnhh98.jpg",
+      "AssetFile": "images/T-shirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yh2U1VMrnksc+sNg/za0KrzzHuLS+HR+zN32RQ+sbns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:51:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etsmmnhh98"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yh2U1VMrnksc+sNg/za0KrzzHuLS+HR+zN32RQ+sbns="
+        },
+        {
+          "Name": "label",
+          "Value": "images/T-shirt.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/T-shirt.jpg",
+      "AssetFile": "images/T-shirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yh2U1VMrnksc+sNg/za0KrzzHuLS+HR+zN32RQ+sbns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:51:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yh2U1VMrnksc+sNg/za0KrzzHuLS+HR+zN32RQ+sbns="
+        }
+      ]
+    }
+  ]
 }

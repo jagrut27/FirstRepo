@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\",
+  "WorkspaceRootPath": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\society-management\\admin\\backend\\onlineshopiing\\onlineshopiing\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\jagrut\\online shopping web\\onlineshopiing\\onlineshopiing\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\society-management\\admin\\backend\\onlineshopiing\\onlineshopiing\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\jagrut\\online shopping web\\onlineshopiing\\onlineshopiing\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\society-management\\admin\\backend\\onlineshopiing\\onlineshopiing\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\society-management\\admin\\backend\\onlineshopiing\\onlineshopiing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\society-management\\admin\\backend\\onlineshopiing\\onlineshopiing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\society-management\\admin\\backend\\onlineshopiing\\onlineshopiing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\society-management\\admin\\backend\\onlineshopiing\\onlineshopiing\\onlineshopiing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\onlineshopiing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\society-management\\admin\\backend\\onlineshopiing\\onlineshopiing\\model\\ajio_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\jagrut\\online shopping web\\onlineshopiing\\onlineshopiing\\model\\ajio_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\model\\ajio_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\society-management\\admin\\backend\\onlineshopiing\\onlineshopiing\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\jagrut\\online shopping web\\onlineshopiing\\onlineshopiing\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\jagrut\\online shopping web\\onlineshopiing\\onlineshopiing\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\society-management\\admin\\backend\\onlineshopiing\\onlineshopiing\\onlineshopiing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\jagrut\\online shopping web\\onlineshopiing\\onlineshopiing\\onlineshopiing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\onlineshopiing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\jagrut\\online shopping web\\onlineshopiing\\onlineshopiing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\jagrut\\online shopping web\\onlineshopiing\\onlineshopiing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\jagrut\\online shopping web\\onlineshopiing\\onlineshopiing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|c:\\users\\pcit109\\desktop\\jagrut\\online shopping web\\onlineshopiing\\onlineshopiing\\onlineshopiing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A9CCDC6-7701-49B4-9151-821473DA38CB}|OnlineShopiing\\OnlineShopiing.csproj|solutionrelative:onlineshopiing\\onlineshopiing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,67 +50,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OnlineShopiing",
-              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
-              "RelativeDocumentMoniker": "OnlineShopiing\\OnlineShopiing.csproj",
-              "ToolTip": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
-              "RelativeToolTip": "OnlineShopiing\\OnlineShopiing.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-21T09:57:21.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "OnlineShopiing\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "OnlineShopiing\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDMAAABBAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Model\\Cart.cs",
+              "RelativeDocumentMoniker": "OnlineShopiing\\Model\\Cart.cs",
+              "ToolTip": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Model\\Cart.cs",
+              "RelativeToolTip": "OnlineShopiing\\Model\\Cart.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T06:53:06.723Z",
+              "WhenOpened": "2025-02-20T12:01:15.518Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Controllers\\CartController.cs",
+              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "OnlineShopiing\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Controllers\\CartController.cs*",
-              "RelativeToolTip": "OnlineShopiing\\Controllers\\CartController.cs*",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAmwFEAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Controllers\\CartController.cs",
+              "RelativeToolTip": "OnlineShopiing\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAuwKQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T12:27:47.834Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineShopiing\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineShopiing\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:53:06.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Program.cs",
               "RelativeDocumentMoniker": "OnlineShopiing\\Program.cs",
-              "ToolTip": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Program.cs",
+              "ToolTip": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Program.cs",
               "RelativeToolTip": "OnlineShopiing\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T12:18:54.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "OnlineShopiing",
-              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
+              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
               "RelativeDocumentMoniker": "OnlineShopiing\\OnlineShopiing.csproj",
-              "ToolTip": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
+              "ToolTip": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
               "RelativeToolTip": "OnlineShopiing\\OnlineShopiing.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-20T12:33:58.193Z",
@@ -118,37 +120,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\appsettings.json",
               "RelativeDocumentMoniker": "OnlineShopiing\\appsettings.json",
-              "ToolTip": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\appsettings.json",
+              "ToolTip": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\appsettings.json",
               "RelativeToolTip": "OnlineShopiing\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T12:09:41.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:09:41.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Model\\Cart.cs",
-              "RelativeDocumentMoniker": "OnlineShopiing\\Model\\Cart.cs",
-              "ToolTip": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Model\\Cart.cs",
-              "RelativeToolTip": "OnlineShopiing\\Model\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:01:15.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Model\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Model\\Customer.cs",
               "RelativeDocumentMoniker": "OnlineShopiing\\Model\\Customer.cs",
-              "ToolTip": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Model\\Customer.cs",
               "RelativeToolTip": "OnlineShopiing\\Model\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,11 +145,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OnlineShopiing\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Properties\\launchSettings.json",
               "RelativeToolTip": "OnlineShopiing\\Properties\\launchSettings.json",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -170,16 +158,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Ajio_Products.cs",
-              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Model\\Ajio_Products.cs",
+              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Model\\Ajio_Products.cs",
               "RelativeDocumentMoniker": "OnlineShopiing\\Model\\Ajio_Products.cs",
-              "ToolTip": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\Model\\Ajio_Products.cs",
+              "ToolTip": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\Model\\Ajio_Products.cs",
               "RelativeToolTip": "OnlineShopiing\\Model\\Ajio_Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T11:58:11.681Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OnlineShopiing.csproj",
+              "DocumentMoniker": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
+              "RelativeDocumentMoniker": "OnlineShopiing\\OnlineShopiing.csproj",
+              "ToolTip": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
+              "RelativeToolTip": "OnlineShopiing\\OnlineShopiing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T09:57:21.657Z"
             }
           ]
         }

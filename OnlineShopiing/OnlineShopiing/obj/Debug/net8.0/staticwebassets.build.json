@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ONAugNFf2UcpGM7f0kIYNDHu5AQPFLOoA9swEBpK3B4=",
+  "Hash": "rUizmT0NLNdRXpnS049nVbwv6gnUiImDscOxZIYUSao=",
   "Source": "OnlineShopiing",
   "BasePath": "_content/OnlineShopiing",
   "Mode": "Default",
@@ -10,11 +10,528 @@
     {
       "Name": "OnlineShopiing\\wwwroot",
       "Source": "OnlineShopiing",
-      "ContentRoot": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\",
       "BasePath": "_content/OnlineShopiing",
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Jeans.jpg",
+      "SourceId": "OnlineShopiing",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\",
+      "BasePath": "_content/OnlineShopiing",
+      "RelativePath": "images/Jeans#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8tn1bcz9i",
+      "Integrity": "zCC4d6vwaY8kELKa5QzvCeiV7UAxTSrpZWk6ZTQIKrc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Jeans.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Shirt.jpg",
+      "SourceId": "OnlineShopiing",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\",
+      "BasePath": "_content/OnlineShopiing",
+      "RelativePath": "images/Shirt#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcxc6u9l43",
+      "Integrity": "LP4K6wC9XJqtBARVvodsKed5idr0EAuiZQhDCLudwRQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Shirt.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Shoes.jpg",
+      "SourceId": "OnlineShopiing",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\",
+      "BasePath": "_content/OnlineShopiing",
+      "RelativePath": "images/Shoes#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2fyo3r69l",
+      "Integrity": "0LSION8Q9KNqBs1E2QAbJeux5akebgwlpcyQRJwuwA4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Shoes.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\T-shirt 1.jpg",
+      "SourceId": "OnlineShopiing",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\",
+      "BasePath": "_content/OnlineShopiing",
+      "RelativePath": "images/T-shirt 1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0gu20g896f",
+      "Integrity": "YPkoyHpGOB++BaZzeXakDvgBamZ31iRMTBOd3e1i3o0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\T-shirt 1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\T-shirt.jpg",
+      "SourceId": "OnlineShopiing",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\",
+      "BasePath": "_content/OnlineShopiing",
+      "RelativePath": "images/T-shirt#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etsmmnhh98",
+      "Integrity": "Yh2U1VMrnksc+sNg/za0KrzzHuLS+HR+zN32RQ+sbns=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\T-shirt.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/Jeans.jpg",
+      "AssetFile": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zCC4d6vwaY8kELKa5QzvCeiV7UAxTSrpZWk6ZTQIKrc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:51:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zCC4d6vwaY8kELKa5QzvCeiV7UAxTSrpZWk6ZTQIKrc="
+        }
+      ]
+    },
+    {
+      "Route": "images/Jeans.s8tn1bcz9i.jpg",
+      "AssetFile": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zCC4d6vwaY8kELKa5QzvCeiV7UAxTSrpZWk6ZTQIKrc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:51:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8tn1bcz9i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Jeans.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zCC4d6vwaY8kELKa5QzvCeiV7UAxTSrpZWk6ZTQIKrc="
+        }
+      ]
+    },
+    {
+      "Route": "images/Shirt.jpg",
+      "AssetFile": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Shirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LP4K6wC9XJqtBARVvodsKed5idr0EAuiZQhDCLudwRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:24:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LP4K6wC9XJqtBARVvodsKed5idr0EAuiZQhDCLudwRQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Shirt.kcxc6u9l43.jpg",
+      "AssetFile": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Shirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LP4K6wC9XJqtBARVvodsKed5idr0EAuiZQhDCLudwRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:24:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcxc6u9l43"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Shirt.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LP4K6wC9XJqtBARVvodsKed5idr0EAuiZQhDCLudwRQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Shoes.jpg",
+      "AssetFile": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Shoes.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0LSION8Q9KNqBs1E2QAbJeux5akebgwlpcyQRJwuwA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0LSION8Q9KNqBs1E2QAbJeux5akebgwlpcyQRJwuwA4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Shoes.o2fyo3r69l.jpg",
+      "AssetFile": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\Shoes.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0LSION8Q9KNqBs1E2QAbJeux5akebgwlpcyQRJwuwA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2fyo3r69l"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Shoes.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0LSION8Q9KNqBs1E2QAbJeux5akebgwlpcyQRJwuwA4="
+        }
+      ]
+    },
+    {
+      "Route": "images/T-shirt 1.0gu20g896f.jpg",
+      "AssetFile": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\T-shirt 1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YPkoyHpGOB++BaZzeXakDvgBamZ31iRMTBOd3e1i3o0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:21:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0gu20g896f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/T-shirt 1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPkoyHpGOB++BaZzeXakDvgBamZ31iRMTBOd3e1i3o0="
+        }
+      ]
+    },
+    {
+      "Route": "images/T-shirt 1.jpg",
+      "AssetFile": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\T-shirt 1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YPkoyHpGOB++BaZzeXakDvgBamZ31iRMTBOd3e1i3o0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:21:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPkoyHpGOB++BaZzeXakDvgBamZ31iRMTBOd3e1i3o0="
+        }
+      ]
+    },
+    {
+      "Route": "images/T-shirt.etsmmnhh98.jpg",
+      "AssetFile": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\T-shirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yh2U1VMrnksc+sNg/za0KrzzHuLS+HR+zN32RQ+sbns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etsmmnhh98"
+        },
+        {
+          "Name": "label",
+          "Value": "images/T-shirt.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yh2U1VMrnksc+sNg/za0KrzzHuLS+HR+zN32RQ+sbns="
+        }
+      ]
+    },
+    {
+      "Route": "images/T-shirt.jpg",
+      "AssetFile": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\wwwroot\\images\\T-shirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yh2U1VMrnksc+sNg/za0KrzzHuLS+HR+zN32RQ+sbns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 06:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yh2U1VMrnksc+sNg/za0KrzzHuLS+HR+zN32RQ+sbns="
+        }
+      ]
+    }
+  ]
 }

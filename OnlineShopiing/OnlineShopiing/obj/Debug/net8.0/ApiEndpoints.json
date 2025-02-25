@@ -24,8 +24,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "cartItem",
-        "Type": "OnlineShopiing.Model.Cart",
+        "Name": "cartItems",
+        "Type": "System.Collections.Generic.List\u00601[[OnlineShopiing.Model.Cart, OnlineShopiing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "IsRequired": true
       }
     ],

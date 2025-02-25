@@ -1,3 +1,0 @@
-C:\Users\pcit109\Desktop\Society-Management\admin\Backend\OnlineShopiing\OnlineShopiing\wwwroot\Jeans.jpg
-C:\Users\pcit109\Desktop\Society-Management\admin\Backend\OnlineShopiing\OnlineShopiing\wwwroot\Shoes.jpg
-C:\Users\pcit109\Desktop\Society-Management\admin\Backend\OnlineShopiing\OnlineShopiing\wwwroot\T-shirt.jpg

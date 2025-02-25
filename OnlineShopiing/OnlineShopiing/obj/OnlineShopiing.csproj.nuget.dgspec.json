@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj": {}
+    "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj": {
+    "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
+        "projectUniqueName": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
         "projectName": "OnlineShopiing",
-        "projectPath": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
+        "projectPath": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\OnlineShopiing.csproj",
         "packagesPath": "C:\\Users\\pcit109\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pcit109\\Desktop\\Society-Management\\admin\\Backend\\OnlineShopiing\\OnlineShopiing\\obj\\",
+        "outputPath": "C:\\Users\\pcit109\\Desktop\\jagrut\\Online Shopping Web\\OnlineShopiing\\OnlineShopiing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

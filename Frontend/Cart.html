@@ -3,44 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cart</title>
+    <title>Shopping Cart</title>
     <link rel="stylesheet" href="Cart.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> <!-- Include jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> 
 </head>
 <body>
 
-    <!-- Header Section -->
+
     <header class="header">
         <div class="website-name">
             <h1>Online Shopping</h1>
         </div>
-
-        <div class="categories">
+        <nav class="categories">
             <ul>
                 <li><a href="Dashbaord.html">Home</a></li>
                 <li><a href="men.html">Men</a></li>
                 <li><a href="women.html">Women</a></li>
                 <li><a href="kids.html">Kids</a></li>
             </ul>
-        </div>
+        </nav>
     </header>
 
-    <!-- Cart Section -->
+   
     <section class="cart-section">
         <h2>Your Shopping Cart</h2>
         <div class="cart-items">
-            <!-- Cart items will be dynamically added here -->
+        
         </div>
 
-        <!-- Total Amount -->
-        <div class="cart-total">
-            <p>Total: ₹<span id="totalAmount">0.00</span></p>
+      
+        <div class="cart-summary">
+            <p><strong>Total: ₹<span id="totalAmount">0.00</span></strong></p>
+          
         </div>
 
-        <!-- Checkout Button -->
-        <button id="checkoutButton" class="checkout-button">Proceed to Checkout</button>
-
-        <button id="Empty-Cart" class="Empty-CartButton">Empty-Cart</button>
+      
+        <div class="cart-buttons">
+            <button id="checkoutButton" class="checkout-button">Proceed to Checkout</button>
+            <button id="emptyCartButton" class="empty-cart-button">Empty Cart</button>
+        </div>
     </section>
 
     <script src="Cart.js"></script>
